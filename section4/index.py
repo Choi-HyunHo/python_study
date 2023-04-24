@@ -36,3 +36,18 @@ print(list5[::2]) # [1, 4, 6]
 
 list5[2:4] = [99,100]
 print(list5) # [1, 2, 99, 100, 6, 7]
+
+# 정렬
+list6 = [1,2,6,4,5]
+list6.reverse()
+print(list6) # [5, 4, 6, 2, 1]
+
+list6.sort()
+print(list6) # [1, 2, 4, 5, 6]
+
+list6.sort(reverse=True)
+print(list6) # [6, 5, 4, 2, 1]
+
+a = sorted(list6)
+print(a) # [1, 2, 4, 5, 6]
+print(list6) # [1, 2, 6, 4, 5]
