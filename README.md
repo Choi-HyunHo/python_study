@@ -6,3 +6,4 @@
 4. [리스트에 대해서](https://choi-hyunho.com/python/python-4/)
 5. [for 반복문](https://choi-hyunho.com/python/python-5/)
 6. [연산자](https://choi-hyunho.com/python/python-6/)
+7. [조건문](https://choi-hyunho.com/python/python-7/)
