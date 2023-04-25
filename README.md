@@ -7,3 +7,4 @@
 5. [for 반복문](https://choi-hyunho.com/python/python-5/)
 6. [연산자](https://choi-hyunho.com/python/python-6/)
 7. [조건문](https://choi-hyunho.com/python/python-7/)
+8. [while 반복문](https://choi-hyunho.com/python/python-8/)
