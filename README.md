@@ -9,3 +9,4 @@
 7. [조건문](https://choi-hyunho.com/python/python-7/)
 8. [while 반복문](https://choi-hyunho.com/python/python-8/)
 9. [딕셔너리(dictionary)](https://choi-hyunho.com/python/python-9/)
+10. [함수(function)](https://choi-hyunho.com/python/python-10/)
